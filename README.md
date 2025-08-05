@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hasan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/hasan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/i.am_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am_hasan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wajie28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wajie28" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hansanjava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hansanjava" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/waji0bft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="waji0bft" height="30" width="40" /></a>
