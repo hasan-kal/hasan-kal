@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 I’m currently working on GenAI <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Java<br>⚡ Fun fact I love sleeping 😴
+🔭 I’m currently working on GenAI <br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Java<br>⚡ Fun fact I love sleeping 😴
 
 
 ## 🌐 Socials:
