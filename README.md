@@ -96,7 +96,7 @@
 ### 🐍 Watch My Contributions Snake  
 
 <p align="center">
-  <img src="https://github.com/hasan-kal/hasan-kal/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hasan-kal/hasan-kal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
