@@ -61,19 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-kal&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-kal&theme=radical" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kal&layout=compact&theme=radical" width="400"/>
-</p>
-
----
-
 ### ⚙️ Projects I’m Proud Of  
 
 - 🧠 **EchoAI** – A conversational journaling app powered by AI  
