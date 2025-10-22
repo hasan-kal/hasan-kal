@@ -61,6 +61,19 @@
 
 ---
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-kal&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-kal&theme=radical" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kal&layout=compact&theme=radical" width="400"/>
+</p>
+
+---
+
 ### ⚙️ Projects I’m Proud Of  
 
 - 🧠 **EchoAI** – A conversational journaling app powered by AI  
@@ -83,7 +96,7 @@
 ### 🐍 Watch My Contributions Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan-kal/hasan-kal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/hasan-kal/hasan-kal/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
