@@ -1,0 +1,21 @@
+# README.md
+
+# Contribution Snake
+
+This project generates a contribution snake SVG based on the user's GitHub contributions. The snake is automatically generated daily at midnight UTC through a GitHub Actions workflow.
+
+## How It Works
+
+The workflow defined in `.github/workflows/snake.yml` uses the Platane/snk action to create a visual representation of your contributions in the form of a snake. The generated SVG file is then pushed to the `output` branch of the repository.
+
+## Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/hasan-kal/output/main/github-contribution-grid-snake.svg)
+
+## Manual Trigger
+
+You can also manually trigger the workflow from the GitHub Actions tab in your repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
