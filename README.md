@@ -93,7 +93,7 @@
 
 ### 🐍 Watch My Contributions Snake
 
-![contribution-snake](./output/github-contribution-grid-snake-dark.svg)
+![contribution-snake](./output/snake.yml)
 
 ---
 
