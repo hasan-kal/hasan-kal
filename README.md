@@ -39,7 +39,7 @@
 ### 🔥 Streaks & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasan-kal&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=hasan-kal&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
