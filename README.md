@@ -1,60 +1,28 @@
-# Hey 👋, I'm Hasan
-### Full Stack Developer (MERN) | Generative AI Enthusiast | Tech Explorer
+<!-- PROFILE README FOR hasan-kal -->
+
+<h1 align="center">Hey there, I'm Hasan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+(MERN);Generative+AI+%26+Prompt+Engineering;Always+learning+new+things+🚀;Building+cool+projects+that+matter!" alt="Typing SVG" />
+  <em>⚡ A passionate Full Stack Developer who loves clean design, deep work sessions, and late-night debugging.</em>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🕶️ About Me
 
-- 💻 Currently a **Computer Science Engineering Student** at **JECRC Jaipur**
-- 🚀 Working on **EchoAI** — a conversational journaling app powered by AI
-- 🧩 Exploring **AI Agents**, **MERN stack**, and **creative coding**
-- 🎯 Goal: To craft **impactful products** and become a world-class **software engineer**
-- ⚡ Fun fact: I debug faster when there’s music in the background 🎧
+- 💻 Currently exploring **Generative AI** and **Full Stack Development**
+- 🎯 Focused on building **fun + functional projects**
+- ⚔️ Known for mixing logic with a little chaos 😈
+- 🧩 Always learning, always building
+- 💬 Ask me about: **React, Node.js, MongoDB, AI, and cool project ideas**
+- 🎮 Fun fact: I debug with music and caffeine ☕
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 Tech Arsenal
 
-#### 🚀 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-</p>
-
-#### 💾 Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-2C8EBB?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-</p>
-
-#### 🧠 Programming & DSA
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</p>
-
-#### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-</p>
-
-#### 🌱 Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-1E1E1E?style=for-the-badge&logo=openai&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode,tailwind,figma,linux&theme=dark" />
 </p>
 
 ---
@@ -62,41 +30,61 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-kal&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-kal&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-kal&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kal&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </p>
+
+---
+
+### 🔥 Streaks & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kal&layout=compact&theme=radical" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=hasan-kal&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### ⚙️ Projects I’m Proud Of
+### 🐍 Contribution Snake
 
-- 🧠 **EchoAI** – A conversational journaling app powered by AI
-- ⚡ **AgentCLI** – A CLI tool for AI agent experiments (Gemini API)
-- 🏡 **HomeDots** – Property rental web app with modern design and compact UI
-- 🎮 **PingPal Bot** – A fun Discord bot with image and embed commands
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasan-kal/hasan-kal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> 🐍 If the snake doesn’t show, make sure you’ve enabled GitHub Actions on your repo!  
+> (I'll guide you below)
 
 ---
 
-### 📫 Let's Connect
+### 🌍 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p align="center">
+  <a href="YOUR LINKEDIN HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR PORTFOLIO HERE"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+  <a href="YOUR TWITTER HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="YOUR INSTAGRAM HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🐍 Watch My Contributions Snake
+### 💫 Random Quote
 
-![contribution-snake](./output/snake.yml)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🧩 A Little Fun Section
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Cory House
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+</p>
 
 ---
 
 <p align="center">
-   <b>“Stay curious. Stay creative.”</b> — Hasan
+  💀 Crafted with passion & caffeine by <strong>Hasan</strong>
 </p>
