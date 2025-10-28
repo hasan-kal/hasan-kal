@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Hasan 👋</h1>
 
 <p align="center">
-  <em>⚡ A passionate Full Stack Developer who loves clean design, deep work sessions, and late-night debugging.</em>
+  <em>⚡ A passionate Full Stack Developer who loves clean design, deep work sessions and late-night debugging.</em>
 </p>
 
 ---
@@ -27,23 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-kal&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kal&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
-
----
-
-### 🔥 Streaks & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasan-kal&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -52,25 +35,6 @@
 
 > 🐍 If the snake doesn’t show, make sure you’ve enabled GitHub Actions on your repo!  
 > (I'll guide you below)
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="YOUR LINKEDIN HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR PORTFOLIO HERE"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
-  <a href="YOUR TWITTER HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="YOUR INSTAGRAM HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 💫 Random Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
 
 ---
 
