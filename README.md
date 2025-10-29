@@ -30,7 +30,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan-kal/hasan-kal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://hasan-kal.github.io/hasan-kal/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > 🐍 If the snake doesn’t show, make sure you’ve enabled GitHub Actions on your repo!  
