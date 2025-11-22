@@ -28,6 +28,3 @@
 
 ---
 
-<p align="center">
-  ✨ Made with curiosity & caffeine by <strong>Hasan</strong>
-</p>
