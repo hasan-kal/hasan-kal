@@ -7,9 +7,8 @@
 
 - 💻 Computer Science student
 - 🚀 Passionate about **MERN stack** and **AI-based projects**
-- 🧩 Currently working on **EchoAI** – a conversational journaling app
-- 🌱 Learning more about **Generative AI** and **Agent-based systems**
-- ☕ I love late-night coding sessions and clean UI design
+- 🌱 Learning more about **Generative AI** and **RAGs**
+- ☕ I love late-night coding sessions and sleeping
 
 ---
 
