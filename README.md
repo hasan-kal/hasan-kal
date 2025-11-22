@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 💻 Computer Science student at **JECRC, Jaipur**
+- 💻 Computer Science student at 
 - 🚀 Passionate about **MERN stack** and **AI-based projects**
 - 🧩 Currently working on **EchoAI** – a conversational journaling app
 - 🌱 Learning more about **Generative AI** and **Agent-based systems**
